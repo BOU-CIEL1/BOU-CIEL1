@@ -3,7 +3,7 @@
 ```javascript
 const profile = {
   work_on: "something",
-  learning: "arabic, python, unity",
+  learning: "arabic, python, c#, unity",
   see_my_projects_here: "https://bou-ciel1.github.io/Mon-Portfolio/index.html",
   fun_fact: "Road 96 is my favorite video game",
 };
