@@ -1,38 +1,34 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Honk&size=32&pause=1000&color=7BB8F7&background=093B80C5&center=true&vCenter=true&width=435&lines=Bienvenue+sur+ma+page!" alt="Typing SVG" />
-  </a>
-</p>
+# ⚡ Welcome on Jalil Bougoffa's page
 
 ```javascript
-const profil = {
-  nom  : "BOUGOFFA--DUPRAT Jalil",
-  localisation  : "Lyon, France",
-  roles  : ["Etudiant en Informatique", "Futur Développeur"]
-  stack  : ["Python", "C++", "C#", "Java", "HTML/CSS", "JavaScript", "PHP", "SQL", "..."]
-  remote  : true,
-  portfolio  : "https://bou-ciel1.github.io/Mon-Portfolio/index.html",
+const profile = {
+  work_on: "something",
+  learning: "arabic, python, unity",
+  see_my_projects_here: "https://bou-ciel1.github.io/Mon-Portfolio/index.html",
+  fun_fact: "Road 96 is my favorite video game",
 };
 ```
 
-# Ma Stack
+# Languages and Tools
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/>
+<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
+<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Unity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
+<img align="left" alt="Godot" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
+<img align="left" alt="Gitlab" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
+<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+<img align="left" alt="UML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-plain.svg"/>
 
-## Programmation
-![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&labelColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=white) ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=white) ![Static Badge](https://img.shields.io/badge/Java-blue?style=for-the-badge&logoColor=ECDC5A&labelColor=white)
+<br>
+<br>
 
-## Frontend
-![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=CSS&logoColor=663399&labelColor=white) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=white)
-
-## Backend
-![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=white) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=white)
-
-## Moteurs de jeux
-![Static Badge](https://img.shields.io/badge/Unity-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=black) ![Static Badge](https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godot%20engine&logoColor=478CBF&labelColor=white)
-
-## DevOps
-![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=white) ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26&labelColor=white) ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=white) ![Static Badge](https://img.shields.io/badge/UML-%23FABD14?style=for-the-badge&logo=uml&logoColor=%23FABD14&labelColor=white)
-
-# Projets en vedette
+# Main Projects
 
 | Projet | Description | Stack | Lien |
 | :--- | :--- | :--- | :--- |
@@ -41,7 +37,7 @@ const profil = {
 | **Spacecheap Adventures** | Jeu de survie spatial développé avec le moteur Godot, mettant l'accent sur la gestion de score et la physique des collisions pour un projet de groupe en BTS. | ![Godot](https://img.shields.io/badge/Godot-%23478CBF?logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%23454158?logo=godot-engine&logoColor=white)| [📂 Voir le code](https://github.com/BOU-CIEL1/Spacecheap-Adventures) |
 | **Gestion de course CoVACIEL** | Développement d'un système de chronométrage et d'une IHM de suivi de course en temps réel dans le cadre du concours national de course de voitures autonomes CoVACIEL pour un projet de groupe de BTS. | ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=c%2B%2B) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white) | [📂 Voir le code](https://github.com/MAR-CIEL/Projet-gestion_course/tree/Bou) |
 
-# Pour me contacter
+# Contact me
 [![Portfolio](https://img.shields.io/badge/Mon%20Portfolio-%231D2E62?style=for-the-badge)](https://bou-ciel1.github.io/Mon-Portfolio/index.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2371B7FB?style=for-the-badge)](https://www.linkedin.com/in/jalil-bougoffa-duprat-845b202a0/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=white)](https://www.youtube.com/@lilajofficiel)
