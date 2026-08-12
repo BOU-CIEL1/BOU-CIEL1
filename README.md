@@ -1,4 +1,4 @@
-# ⚡ Welcome on Jalil Bougoffa's page
+# <img alt="emoji" width="50px" src ="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"/> Hi! I'm Jalil Bougoffa!
 
 ```javascript
 const profile = {
@@ -9,7 +9,7 @@ const profile = {
 };
 ```
 
-# Languages and Tools
+# Stack and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
@@ -32,10 +32,19 @@ const profile = {
 
 | Projet | Description | Stack | Lien |
 | :--- | :--- | :--- | :--- |
-| **Mon Portfolio** | Mon portfolio personnel présentant mon parcours et mes projets, conçu pour centraliser mes compétences techniques et mes réseaux sociaux. | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)| [📂 Voir le code](https://github.com/BOU-CIEL1/Mon-Portfolio) |
-| **Trouver le Nombre Mystère** | Jeu de devinette interactif développé lors d'un stage chez Ynov Campus Lyon pour s'initier aux bases de la manipulation logique en JavaScript. | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black) | [📂 Voir le code](https://github.com/BOU-CIEL1/Stage-Decouverte-Ynov-Trouver-le-Nombre-Mystere) |
-| **Spacecheap Adventures** | Jeu de survie spatial développé avec le moteur Godot, mettant l'accent sur la gestion de score et la physique des collisions pour un projet de groupe en BTS. | ![Godot](https://img.shields.io/badge/Godot-%23478CBF?logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%23454158?logo=godot-engine&logoColor=white)| [📂 Voir le code](https://github.com/BOU-CIEL1/Spacecheap-Adventures) |
-| **Gestion de course CoVACIEL** | Développement d'un système de chronométrage et d'une IHM de suivi de course en temps réel dans le cadre du concours national de course de voitures autonomes CoVACIEL pour un projet de groupe de BTS. | ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=c%2B%2B) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white) | [📂 Voir le code](https://github.com/MAR-CIEL/Projet-gestion_course/tree/Bou) |
+| **Mon Portfolio** | My personal portfolio showcasing my career path and projects, designed to bring together my technical skills and social media profiles. | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)| [📂 Voir le code](https://github.com/BOU-CIEL1/Mon-Portfolio) |
+| **Trouver le Nombre Mystère** | An interactive guessing game developed during an activity at Ynov Campus Lyon to learn the basics of logical operations in JavaScript. | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black) | [📂 Voir le code](https://github.com/BOU-CIEL1/Stage-Decouverte-Ynov-Trouver-le-Nombre-Mystere) |
+| **Spacecheap Adventures** | A space survival game developed using the Godot engine, focusing on scoring and collision physics, created as part of a group project for a two-years degree course. | ![Godot](https://img.shields.io/badge/Godot-%23478CBF?logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%23454158?logo=godot-engine&logoColor=white)| [📂 Voir le code](https://github.com/BOU-CIEL1/Spacecheap-Adventures) |
+| **Gestion de course CoVACIEL** | Development of a timing system and a real-time race monitoring HMI as part of the CoVACIEL national autonomous car racing competition for a two-years degree group project. | ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=c%2B%2B) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white) | [📂 Voir le code](https://github.com/MAR-CIEL/Projet-gestion_course/tree/Bou) |
+
+# 🌐 Languages
+
+| Language | Proficiency |
+| :--- | :--- |
+| French | Native Language |
+| English | C1 (Cambridge Certification) |
+| German | B1 |
+| Arabic | A1 |
 
 # Contact me
 [![Portfolio](https://img.shields.io/badge/Mon%20Portfolio-%231D2E62?style=for-the-badge)](https://bou-ciel1.github.io/Mon-Portfolio/index.html)
