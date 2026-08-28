@@ -4,6 +4,8 @@
 const profile = {
   work_on: "something",
   learning: "arabic, python, c#, unity",
+  playing: "Colt Canyon",
+  watching: "Gachiakuta",
   see_my_projects_here: "https://bou-ciel1.github.io/Mon-Portfolio/index.html",
   fun_fact: "Road 96 is my favorite video game",
 };
